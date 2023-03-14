@@ -1,6 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a masters in Business Analytics from Saint Mary's College
-- 🌱 I’m currently learning Machine Learning and Marketing Data Science
+- 🔭 I’m a dynamic data analyst, experienced in customer segmentation, predictive modeling, and campaign optimization 
+- 👨‍💻 Proficient in using tools such as Python, SQL, and Tableau
+- 🌱 I’m currently learning nw algorithms and Machine Learning techniques to maximize marketing efforts
+- 💬 Ask me about how SMB can take ownership of their data
+- 📫 How to reach me: kevneddy@gmail.com
+- 😄 Pronouns: he/him
 <!--
 **eddyk92/eddyk92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
