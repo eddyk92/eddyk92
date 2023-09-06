@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m a dynamic data analyst, experienced in customer segmentation, predictive modeling, and campaign optimization 
 - 👨‍💻 Proficient in using tools such as Python, SQL, and Tableau
-- 🌱 I’m currently learning nw algorithms and Machine Learning techniques to maximize marketing efforts
+- 🌱 I’m currently learning new algorithms and Machine Learning techniques to maximize marketing efforts
+- 🤔 I'm interested in generative AI and using blockchain in digital marketing
 - 💬 Ask me about how SMB can take ownership of their data
 - 📫 How to reach me: kevneddy@gmail.com
 - 😄 Pronouns: he/him
