@@ -2,7 +2,7 @@
 
 With over 5 years of dynamic experience as a Marketing Data Analyst, I've honed my skills in optimizing marketing strategies, enhancing customer retention, and driving data-centric decision-making. My track record speaks volumes, showcasing expertise in constructing robust data systems, elevating campaign performance, and fostering seamless collaboration across diverse sectors including agency, financial, and e-commerce. I'm excited to continue growing my skills and working with businesses to reach new heights with data-driven excellence!
 
-## Goal
+## Objective
 
 I aim to spotlight my side projects while offering straightforward tutorials for fellow marketers to learn from and potentially draw inspiration for enhancing their campaigns.
 
