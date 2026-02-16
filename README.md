@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Marketing Data scientist exploring how real-world behavior shapes marketing systems.
 
 Background in campaign optimization, retention modeling, and marketing analytics. I build projects that blend SQL, Python, and behavioral economics — often inspired by my experiences traveling to different cities.
