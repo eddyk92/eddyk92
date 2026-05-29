@@ -1,4 +1,4 @@
-# Marketing Data Scientist studying how people discover, choose, subscribe, stay, and leave.
+### Marketing Data Scientist studying how people discover, choose, subscribe, stay, and leave.
 
 I build projects at the intersection of marketing analytics, behavioral economics, and data science using SQL, Python, and modern analytics workflows.
 
